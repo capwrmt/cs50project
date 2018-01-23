@@ -7,8 +7,9 @@
 * Require users to register
 * provide their home address
 
+
 * view property value for a street address
 * Schools
 * Walkable index
 * Comps
-* local amenities (coffee shops, parks, breweries, children activities)
+* local amenities (coffee shops, parks, breweries, children activities) --> "What's Nearby"
